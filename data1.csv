@@ -1,0 +1,11 @@
+﻿Outlook,Company,Sailboat,Sail
+Sunny,Big,Small,Yes
+Sunny,Medium,Small,Yes
+Sunny,Medium,Big_S,Yes
+Sunny,No,Small,Yes
+Sunny,Big,Big_S,Yes
+Rainy,No,Small,No
+Rainy,Medium,Small,Yes
+Rainy,Big,Big_S,Yes
+Rainy,No,Big_S,No
+Rainy,Medium,Big_S,No
